@@ -1,0 +1,46 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Springmvc-order:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Springmvc_order_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Springmvc-order/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Springmvc-order" />
+          <element id="dir-copy" path="$PROJECT_DIR$/web/WEB-INF/lib" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-aop-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-aspects-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-beans-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-context-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-context-support-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-core-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-webmvc-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-web-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-tx-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-test-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-orm-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-jdbc-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/spring-expression-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/Download/Springmvc day1/jar包/springmvc独立运行/jstl-1.2.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/jstl-1.2.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-aop-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-aspects-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-beans-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-context-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-context-support-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-core-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-expression-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-jdbc-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-orm-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-test-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-tx-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-web-3.2.0.RELEASE.jar" />
+          <element id="file-copy" path="E:/一些视频/springmvc+mybatis/springMVC/day01/res/jar包/springmvc独立运行/spring-webmvc-3.2.0.RELEASE.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
